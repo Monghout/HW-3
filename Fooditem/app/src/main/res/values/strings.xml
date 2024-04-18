@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fooditem</string>
+    <string name="a2">Food items</string>
+    <string name="fruit">Fruit</string>
+    <string name="Vegetable">Vegetable</string>
+    <string name="Drink">Drink</string>
+    <string name="A">A FEW FOOD ITEMS</string>
+    <string name="foodTextView">Food</string>
+</resources>
